@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+* {
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+ion-content {
+  --background: #FFC75F;
+}
+
+ion-list {
+  background-color: #FFC75F;
+}
+
+ion-input {
+  cursor: pointer;
+  background-color: seashell;
+  margin-top: 2%;
+}
+
+ion-label {
+  padding-left: 5%;
+}
+
+.activity2 ion-label {
+  color: green;
+}
+
+#botao {
+  margin-top: 5%;
+  text-align: center;
+  min-width: min-content;
+  cursor: pointer;
+}
+
+.title {
+  text-align: center;
+  margin-top: 20%;
+}
+
+.img {
+  margin-top: 5%;
+  padding-left: 5%;
+}
+
+.img2 {
+  margin-top: 5%;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.activity {
+  margin-top: 10%;
+}
+
+.kg input {
+  width: 100px;
+}
